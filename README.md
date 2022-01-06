@@ -1,1 +1,1 @@
-#A simple store item example
+**A simple store item example using Python OOP**
