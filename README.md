@@ -1,0 +1,1 @@
+#A simple store item example
